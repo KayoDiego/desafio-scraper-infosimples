@@ -184,23 +184,6 @@ O arquivo `produto.json` terá uma estrutura parecida com esta:
 
 ---
 
-## Texto sobre Web Scrapling
-
-- Web Scraping: Relevância e Desafios
-A análise e coleta de dados de forma automatizada têm se tornado indispensáveis graças ao web scraping. Transformando dados dispersos em insights valiosos, empresas usam essa técnica para monitorar concorrentes, precificar produtos e entender tendências.
-
-Principais dificuldades:
-Sites em constante mudança: Estruturas HTML são frequentemente modificadas, exigindo atualizações nos seletores.
-
-Mecanismos anti-scraping: Bloqueios, CAPTCHAs e outras proteções complicam a coleta automatizada.
-
-Dados inconsistentes: A falta de padronização entre sites torna a extração mais difícil.
-
-Questões legais: Regulamentações como a GDPR limitam o que pode ser coletado.
-
-Apesar dos desafios, o scraping continua a ser uma ferramenta poderosa para decisões baseadas em dados quando feito de forma ética e adaptável.
-
----
 
 ##  Desenvolvidor por Kayo Diego
 
